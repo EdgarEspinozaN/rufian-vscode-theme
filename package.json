@@ -1,0 +1,24 @@
+{
+  "name": "rufiantheme",
+  "displayName": "Rufian Theme",
+  "description": "My theme for vscode",
+  "version": "1.0.1",
+  "license": "MIT",
+  "icon": "./Img/RFIcon.png",
+  "publisher": "Edgar Espinoza",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Rufian Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Rufian_Theme-color_theme.json"
+      }
+    ]
+  }
+}
