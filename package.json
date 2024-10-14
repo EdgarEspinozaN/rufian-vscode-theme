@@ -6,6 +6,7 @@
   "license": "MIT",
   "icon": "./Img/RFIcon.png",
   "publisher": "Edgar Espinoza",
+  "repository": "https://github.com/EdgarEspinozaN/rufian-vscode-theme",
   "engines": {
     "vscode": "^1.79.0"
   },

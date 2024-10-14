@@ -4,9 +4,9 @@ This is my personal theme for vscode.
 
 ## Preview
 
-![pv](https://github.com/EdgarEspinozaN/rufian-vscode-theme/blob/main/Img/ej1.png)
+![pv](https://github.com/EdgarEspinozaN/rufian-vscode-theme/raw/main/Img/ej1.png)
 
-![pv2](https://github.com/EdgarEspinozaN/rufian-vscode-theme/blob/main/Img/ej.png)
+![pv2](https://github.com/EdgarEspinozaN/rufian-vscode-theme/raw/main/Img/ej.png)
 
 ## Instalation
 
